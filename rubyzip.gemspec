@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.require_paths         = ['lib']
   s.license               = 'BSD 2-Clause'
   s.required_ruby_version = '>= 1.9.2'
-  s.add_development_dependency 'rake', '~> 10.3'
+  s.add_development_dependency 'rake', '~> 13.0'
   s.add_development_dependency 'pry', '~> 0.10'
   s.add_development_dependency 'minitest', '~> 5.4'
   s.add_development_dependency 'coveralls', '~> 0.7'
